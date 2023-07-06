@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+label {
+    display: block;
+    padding-bottom: 1rem;
+}
+#output{
+    padding:5rem ;
+    text-align: center;
+    margin: 5rem;
+    font-size: x-large;
+    
+}
